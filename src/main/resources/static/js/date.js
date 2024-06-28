@@ -1,0 +1,1 @@
+alert("La es la plantilla de date")

@@ -1,0 +1,1 @@
+alert("esta es la plantilla de time")
